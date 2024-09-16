@@ -1,0 +1,17 @@
+p {
+    background-color: rgb(252, 197, 252);
+    color: aqua;
+}
+
+.red-text {
+    color: red;
+}
+
+h1.red-text {
+    color:rgb(151, 16, 16)
+}
+
+#blue-header {
+    color: blue;
+    background-color: rgb(117, 211, 255);
+}
